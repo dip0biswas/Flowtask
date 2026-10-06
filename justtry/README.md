@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone <your-repo-url>
-cd hello
+cd justtry
 ```
 
 ### 2. Backend Setup
@@ -96,7 +96,8 @@ Open your browser and navigate to `http://localhost:5173`
 ## 📁 Project Structure
 
 ```
-hello/
+justt
+ry/
 ├── backend/
 │   ├── config/
 │   │   └── db.js                 # Database configuration
